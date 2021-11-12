@@ -1,85 +1,22 @@
 # Adding a new product
 
-## Getting started
+## Title
 
-Adding a new product to the SIRPLUS website is simple provided you have the right information to hand.
+Add the title of the product
 
+## Description
 
+Fill in the product description.
 
+## Media
 
-## Markdown
+Add the product images here. Images for all products should be `1200x1700px`.
 
-Alternatively, you can create a custom markdown-based navigation file by setting `loadNavbar` to **true** and creating `_navbar.md`, compare [loadNavbar configuration](configuration.md#loadnavbar).
+?> **Remember** to add product images in this order:
+1. Image flat (this will be the image that shows up in collection pages)
+2. Model image (this will be the image that shows when someone hovers over the product on collection pages)
+3. Any other images
 
-```html
-<!-- index.html -->
+## Pricing
 
-<script>
-  window.$docsify = {
-    loadNavbar: true
-  }
-</script>
-<script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
-```
-
-```markdown
-<!-- _navbar.md -->
-
-* [En](/)
-* [chinese](/zh-cn/)
-```
-
-!> You need to create a `.nojekyll` in `./docs` to prevent GitHub Pages from ignoring files that begin with an underscore.
-
-`_navbar.md` is loaded from each level directory. If the current directory doesn't have `_navbar.md`, it will fall back to the parent directory. If, for example, the current path is `/guide/quick-start`, the `_navbar.md` will be loaded from `/guide/_navbar.md`.
-
-## Nesting
-
-You can create sub-lists by indenting items that are under a certain parent.
-
-```markdown
-<!-- _navbar.md -->
-
-* Getting started
-
-  * [Quick start](quickstart.md)
-  * [Writing more pages](more-pages.md)
-  * [Custom navbar](custom-navbar.md)
-  * [Cover page](cover.md)
-
-* Configuration
-  * [Configuration](configuration.md)
-  * [Themes](themes.md)
-  * [Using plugins](plugins.md)
-  * [Markdown configuration](markdown.md)
-  * [Language highlight](language-highlight.md)
-```
-
-renders as
-
-![Nesting navbar](_images/nested-navbar.png 'Nesting navbar')
-
-## Combining custom navbars with the emoji plugin
-
-If you use the [emoji plugin](plugins#emoji):
-
-```html
-<!-- index.html -->
-
-<script>
-  window.$docsify = {
-    // ...
-  }
-</script>
-<script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
-<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
-```
-
-you could, for example, use flag emojis in your custom navbar Markdown file:
-
-```markdown
-<!-- _navbar.md -->
-
-* [:us:, :uk:](/)
-* [:cn:](/zh-cn/)
-```
+Info to be added 
