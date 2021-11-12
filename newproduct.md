@@ -27,7 +27,7 @@ Remember to add product images in this order:
 
 Every product must use of the product types we use across the SIRPLUS store. This is really important for product filtering, and as with colours, try to keep it as high-level as possible.
 
-![Product Type](/_media/type.jpg "Product Type")
+![Product Type](/_media/type.jpg "Product Type" ':size=50%')
 
 
 ## Pricing
@@ -82,7 +82,7 @@ Info to be added
 
 You should add product metafields to the product if you want to show certain information on the product's page:
 
-![Metafields](/_media/metafields.jpg "Metafields")
+![Metafields](/_media/metafields.jpg "Metafields" ':size=50%')
 
 ### Custom Product Label
 
@@ -111,4 +111,4 @@ You will need to manually set a reminder to change this back to the default temp
 
 ?> If a product is set to pre-order then this will override the Custom Product Label set in the metafields to show `Pre-Order` instead.
 
-![Pre-order](_media/pre-order.jpg "Pre-order")
+![Pre-order](_media/pre-order.jpg "Pre-order" ':size=50%')
