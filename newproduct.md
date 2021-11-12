@@ -29,7 +29,7 @@ Every product must use of the product types we use across the SIRPLUS store. Thi
 
 Scroll down the list of options until you get to `Custom Types`. These are the types we use on the SIRPLUS store. Only add a new type *in extremis*.
 
-![Product Type](/_media/type.jpg "Product Type" ':size=50%')
+![Product Type](/_media/type.jpg ':size=50%')
 
 
 ## Pricing
@@ -72,7 +72,7 @@ All products must have a colour. Colour should always be the second option you c
 
 !> Colours should always be as simple as possible, to make sure that as many products near to that colour show up. Stick to primary and secondary colours wherever possible. (Eg. Navy should be `Blue` and Maroon should be `Red`.)
 
-?> Anything that is off-white like Stone, Sand, Oatmeal etc should be called `Beige`
+?> Anything that is off-white like Stone, Sand, Oatmeal etc should be called `Beige`.
 
 ***
 ## SEO
@@ -84,7 +84,7 @@ Info to be added
 
 You should add product metafields to the product if you want to show certain information on the product's page:
 
-![Metafields](/_media/metafields.jpg "Metafields" ':size=50%')
+![Metafields](/_media/metafields.jpg ':size=50%')
 
 ### Custom Product Label
 
@@ -113,4 +113,4 @@ You will need to manually set a reminder to change this back to the default temp
 
 ?> If a product is set to pre-order then this will override the Custom Product Label set in the metafields to show `Pre-Order` instead.
 
-![Pre-order](_media/pre-order.jpg "Pre-order" ':size=50%')
+![Pre-order](_media/pre-order.jpg ':size=50%')
