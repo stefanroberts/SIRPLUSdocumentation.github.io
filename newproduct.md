@@ -27,6 +27,8 @@ Remember to add product images in this order:
 
 Every product must use of the product types we use across the SIRPLUS store. This is really important for product filtering, and as with colours, try to keep it as high-level as possible.
 
+Scroll down the list of options until you get to `Custom Types`. These are the types we use on the SIRPLUS store. Only add a new type *in extremis*.
+
 ![Product Type](/_media/type.jpg "Product Type" ':size=50%')
 
 
