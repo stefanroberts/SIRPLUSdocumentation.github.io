@@ -15,8 +15,16 @@
       name: 'SIRPLUS website guide',
       logo: '/_media/logo.png',
       loadSidebar: true,
-      search: 'auto';
-      subMaxLevel: 3
+      subMaxLevel: 3,
+      search: {
+        maxAge: 86400000,
+        paths: 'auto',
+        placeholder: 'Search',
+        noData: 'No Results!',
+        depth: 2,
+        hideOtherSidebarContent: false,
+        namespace: 'website-1',
+      }
     }
   </script>
   <!-- Docsify v4 -->
