@@ -7,12 +7,12 @@ Add the title of the product
 
 Fill in the product description.
 
-
 ## Media
 
 Add the product images here. Images for all products should be `1200x1700px`.
 
 Remember to add product images in this order:
+
 1. Image flat (this will be the image that shows up in collection pages)
 2. Model image (this will be the image that shows when someone hovers over the product on collection pages)
 3. Any other images
@@ -94,4 +94,3 @@ If the product is on pre-order then change the product template to `pre-order`.
 You will need to manually set a reminder to change this back to the default template on the right date, **this will not happen automatically**.
 
 ?> If a product is set to pre-order then this will override the Custom Product Label set in the metafields to show `Pre-Order` instead.
-
