@@ -87,10 +87,11 @@ You do not need to add any tags to the product any longer.
 
 ## Pre-order
 
-If the product is on pre-order then change the product template to `Pre-Order`.
+If the product is on pre-order then change the product template to `pre-order`.
+
+![Pre-order](_media/pre-order.jpg ':size=50%')
 
 You will need to manually set a reminder to change this back to the default template on the right date, **this will not happen automatically**.
 
 ?> If a product is set to pre-order then this will override the Custom Product Label set in the metafields to show `Pre-Order` instead.
 
-![Pre-order](_media/pre-order.jpg ':size=50%')
