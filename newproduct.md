@@ -17,6 +17,10 @@ Remember to add product images in this order:
 2. Model image (this will be the image that shows when someone hovers over the product on collection pages)
 3. Any other images
 
+When you are adding new product images on the website, please use the full product name as the file name when you are saving them. Add the same as the alt text. Eg:
+**SIRPLUS [name of the product]** - for flat images.
+**SIRPLUS Model wearing [name of the product]** - for model images.
+
 ## Product Type
 
 Every product must use of the product types we use across the SIRPLUS store. This is really important for product filtering, and as with colours, try to keep it as high-level as possible.
