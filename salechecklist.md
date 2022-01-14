@@ -11,11 +11,11 @@ Setting up sales collections. Collections are already pre-made, so please only a
     
 3.2. Please make sure that each item from Emma’s list is added to the collection. This process is manual.
 
-![Sale 1](/_media/sale1.png ':size=50%')
+![Sale 1](/_media/sale1.png ':size=30%')
  
 3.3. To add new items click search products and copy the SKU code then click done. This will add the product to a dedicated collection.
 
-![Sale 2](/_media/sale2.png ':size=50%')
+![Sale 2](/_media/sale2.png ':size=30%')
  
 3.4. Each product from the MD sales list should be added to dedicated collections. For example Ecru & Navy Stripe T-Shirt: 
 * All Sale
@@ -23,12 +23,12 @@ Setting up sales collections. Collections are already pre-made, so please only a
 * Private Sale 
 * Etc based on the characteristic of the product. 
 
-![Sale 3](/_media/sale3.png ':size=50%')
+![Sale 3](/_media/sale3.png ':size=30%')
  
 3.5. Sale Further Reduction: 
 Moving forward with sales we might add additional discounts to the items. To add custom label head to the Metafields section and in Custom Product Label add: -EXTRA 20% OFF etc and press save. This will add an additional label into the product preview on the website, so customers can navigate easier.
 
-![Sale 4](/_media/sale4.png ':size=50%')
+![Sale 4](/_media/sale4.png ':size=30%')
 
 ## Price adjustments
 Price adjustments: This can be done manually or in bulk by uploading price lists. Please note: Always double-check with Emma what’s the best way of doing it. 
@@ -36,11 +36,11 @@ Price adjustments: This can be done manually or in bulk by uploading price lists
 4.1. Manual adjustment: 
 Head into the Variant section on the product page. Then click the Edit drop-down menu and choose the Open bulk editor section.
   
-![Sale 5](/_media/sale5.png ':size=50%')  
+![Sale 5](/_media/sale5.png ':size=30%')  
   
 4.2. Add new prices on the Price column based on the MD list and click Save on the right top corner of the page. Now prices should be updated and you’ll be able to see the “SALES” custom label on the product pages as well as marked down price.*
 
-![Sale 6](/_media/sale6.png ':size=50%')
+![Sale 6](/_media/sale6.png ':size=30%')
 
 4.3. Bulk adjustment. 
 This process will require uploading a CSV file with newly marked down prices. Please consult with Emma before moving forward.  
@@ -52,7 +52,7 @@ This process will require uploading a CSV file with newly marked down prices. Pl
 
 5.3. Then just drag and drop items to start moving them around. Once you finish click Save and voila – you’re done.
 
-![Sale 57](/_media/sale7.png ':size=50%')
+![Sale 57](/_media/sale7.png ':size=30%')
 
 ## Online Store
 Adding Sales into the megamenu on the online store. 
