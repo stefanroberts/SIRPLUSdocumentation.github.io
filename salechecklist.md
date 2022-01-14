@@ -7,10 +7,10 @@
 ## Collections
 3.	Setting up sales collections. Collections are already pre-made, so please only add a certain product to a dedicated category such as; Private Sale, All Sale, Sale Outerwear, Trousers & Shorts, Accessories, Underwear & Socks, Knitwear, Jackets & Coats, Gilets & Vests, Shirts, Polos & T-shirts, Nightwear, Outerwear, Formalwear. Please confirm with your line manager or head of the department. 
 
-    3.1. Private Sale –Offering our customers first access to sale with 30% off across a range of our current sales collection exclusively. We have a dedicated collection named: Private Sale. 
+    3.1. Private Sale –Offering our customers first access to sale with 30% off across a range of our current sales collection exclusively. We have a dedicated collection named: Private Sale.
+    
     3.2. Please make sure that each item from Emma’s list is added to the collection. This process is manual. 
  
-
     3.3. To add new items click search products and copy the SKU code then click done. This will add the product to a dedicated collection. 
  
     3.4. Each product from the MD sales list should be added to dedicated collections. For example Ecru & Navy Stripe T-Shirt: 
