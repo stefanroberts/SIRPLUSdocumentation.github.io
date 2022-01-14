@@ -23,7 +23,7 @@
 ![Sale 3](/_media/sale3.png ':size=50%')
  
 ## Futher reductions: 
-We might add additional discounts to items. We have set up the website to automatically show a label saying "Extra 20% off" if a product is added to [this collection](https://sirplus.myshopify.com/admin/collections/264768061488).
+We might add additional discounts to items. We have set up the website to automatically show a label saying "Extra 20% off" if a product is added to <a href="https://sirplus.myshopify.com/admin/collections/264768061488" target="_blank">this collection</a>.
 
 You will need to adjust price of the product as well using the compare at price to show the discount. If you need to adjust this at all, speak to Michal.
 
