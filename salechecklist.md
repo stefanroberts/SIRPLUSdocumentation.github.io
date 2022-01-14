@@ -46,6 +46,6 @@ Adding Sales into the megamenu on the online store.
 6.2. Desktop Menu: 
 * Click Mega Menu Links from the menus list. 
 * Click Add menu item. 
-** Name: SALE 
-** Link: All SALE 
+    * Name: SALE 
+    * Link: All SALE 
 * Press Add button
